@@ -9,4 +9,6 @@ dependencies = [
     "flake8>=7.3.0",
     "mypy>=2.0.0",
     "playwright>=1.59.0",
+    "pytest>=9.0.3",
+    "pytest-playwright>=0.7.2",
 ]
